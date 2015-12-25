@@ -7,3 +7,7 @@ The goal of this project is to emulate the pay for cable experience.
 This will be done with a website that has a means to drag n drop local video files onto a local network server running a EPG menu to create a schedule of tv channels.
 
 The current release only supports predefined channels encoded in a single webm file.
+
+# Installation
+Upload code to a web host (nginx/apache)
+Place webm files for each channel in the videos folder
